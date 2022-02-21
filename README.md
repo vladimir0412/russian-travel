@@ -12,3 +12,5 @@
 В данной работе применены: технологии **Flexbox** (*Flexible Box Layout Module*), Grid Layout, CSS-функция calc(), анимационные переходы *transition*, медиа-запросы @media, псевдокласс *:hover*. Используются относительные величины: %, vw, vh, fr.  
 
 *Проект выполнен по правилам Адаптивной верстки для экранов устройств шириной 320px, 768px, 1024px и 1280px*
+
+**Ссылка на проект: https://vladimir0412.github.io/russian-travel/index.html**
