@@ -1,0 +1,24 @@
+.cover__name {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    top: calc(50% - 127px);
+    left: calc(50% - 280px);
+    z-index: 2;
+}
+
+@media screen and (max-width: 735px) {
+    .cover__name {
+        top: calc(50% - 101.5px);
+        left: calc(50% - 210px);
+    }
+} 
+
+@media screen and (max-width: 550px) {
+    .cover__name {
+        top: calc(50% - 66.5px);
+        left: calc(50% - 125px);
+    }
+}
