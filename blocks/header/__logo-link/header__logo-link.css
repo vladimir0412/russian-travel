@@ -1,9 +1,9 @@
 .header__logo-link {
-    margin: 0;
-    opacity: 1;
-    transition-duration: .4s;
+  margin: 0;
+  opacity: 1;
+  transition-duration: .4s;
 }
 
 .header__logo-link:hover {
-    opacity: .6;
+  opacity: .6;
 }

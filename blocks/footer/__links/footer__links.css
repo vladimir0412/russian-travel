@@ -1,11 +1,11 @@
 .footer__links {
-    margin: 0;
+  margin: 0;
 }
 
 @media screen and (max-width: 540px) {
-    .footer__links {
-        display: flex;
-        flex-direction: column;
-        justify-content: start;
-    }
-  } 
+  .footer__links {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+  }
+}

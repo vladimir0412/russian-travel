@@ -1,24 +1,23 @@
 .content {
-    margin-top: 58px;
-    margin-bottom: 92px;
+  margin-top: 58px;
+  margin-bottom: 92px;
 }
 
 @media screen and (max-width: 1279px) {
-    .content {
-        margin-top: 48px;
-    }
-} 
+  .content {
+    margin-top: 48px;
+  }
+}
 
 @media screen and (max-width: 1023px) {
-    .content {
-        margin-bottom: 85px;
-    }
-} 
+  .content {
+    margin-bottom: 85px;
+  }
+}
 
 @media screen and (max-width: 550px) {
-    .content {
-        margin-top: 42px;
-        margin-bottom: 64px;
-    }
-} 
-
+  .content {
+    margin-top: 42px;
+    margin-bottom: 64px;
+  }
+}

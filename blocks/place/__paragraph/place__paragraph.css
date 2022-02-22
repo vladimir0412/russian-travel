@@ -1,27 +1,28 @@
 .place__paragraph {
-    margin: 0;
-    font-size: 18px;
-    line-height: 1.6;
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.6;
 }
 
 .place__paragraph:first-child {
-    padding-bottom: 26px;
+  padding-bottom: 26px;
 }
 
 @media screen and (max-width: 1023px) {
-    .place__paragraph {
-        font-size: 17px;
-        line-height: 1.53;
-    }
-} 
+  .place__paragraph {
+    font-size: 17px;
+    line-height: 1.53;
+  }
+}
 
 @media screen and (max-width: 550px) {
-    .place__paragraph {
-        font-size: 16px;
-        line-height: 1.63;
-        
-    }
-    .place__paragraph:first-child {
-        padding-bottom: 25px;
-    }
-} 
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 1.63;
+
+  }
+
+  .place__paragraph:first-child {
+    padding-bottom: 25px;
+  }
+}
